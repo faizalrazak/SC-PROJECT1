@@ -1,5 +1,5 @@
 apiVersion: apps/v1
-kind: Deploymentsss
+kind: Deployment
 metadata:
   name: opspanzu-deployment
 spec:
