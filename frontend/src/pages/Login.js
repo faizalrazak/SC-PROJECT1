@@ -46,7 +46,7 @@ const Login = ({ login, isAuthenticated, user }) => {
       </div>
       <div className="header-center d-flex justify-content-evenly">
         <div>
-          <h2>LASER CENTRE</h2>
+          <h2>LASER CENTREEEE</h2>
           <h1>Equipments & Facilities</h1>
         </div>
         <div></div>
